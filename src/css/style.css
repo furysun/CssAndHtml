@@ -55,7 +55,13 @@
     margin: 4px;
     float: left;
 }
-
+.color-background{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #87CEFA;
+}
 .bottom-left {
     position: absolute;
     font-size: 18px;
