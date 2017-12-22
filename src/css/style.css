@@ -92,6 +92,11 @@
 .oblique-text {
     font-style: oblique;
 }
+.oblique-text2 {
+    font-style: oblique;
+    color: brown;
+    padding: 5px;
+}
 
 .twoHead {
     clear: left;
@@ -195,11 +200,25 @@ input[type=button] {
     font-size: 18px;
 }
 
+.topleft2{
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    font-size: 18px;
+    color: red;
+}
+
+
 .bottomright {
     position: absolute;
     bottom: 8px;
     right: 16px;
     font-size: 18px;
+}
+
+.color-text{
+    color: red;
+    font-style: oblique
 }
 
 .bottomrightt {
@@ -230,6 +249,14 @@ input[type=button] {
     text-align: center;
     text-decoration: none;
     color: #87CEFA;
+    font-style: oblique
+}
+.desc2 {
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    color: red;
+    font-style: oblique
 }
 
 .imgOpasiti {
